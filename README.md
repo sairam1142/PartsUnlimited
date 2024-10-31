@@ -1,1 +1,1 @@
-https://dev.azure.com/v-sairamadla/AZURE-DEVOPS-PROJECT/_apis/build/status%2Fmypipeline?branchName=main
+[![Build Status](https://dev.azure.com/v-sairamadla/AZURE-DEVOPS-PROJECT/_apis/build/status%2Fmypipeline?branchName=main)](https://dev.azure.com/v-sairamadla/AZURE-DEVOPS-PROJECT/_build/latest?definitionId=3&branchName=main)
